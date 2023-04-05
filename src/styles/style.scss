@@ -1,0 +1,75 @@
+$glbColor: #12203d;
+$glbGC: #f9f9f9;
+$white: white;
+header {
+  background-color: $glbGC;
+  color: $glbColor;
+}
+.MuiDialogContent-root{
+  padding: 0px !important;
+}
+.header {
+  background-color: $glbGC;
+  color: $glbColor;
+  padding: 10px;
+    border-bottom: 1px solid #dfdfdf !important;
+}
+.header h6 {
+  font-size: 16px;
+  font-weight: 600;
+}
+.body-container {
+  color: $glbColor;
+  padding: 10px;
+  margin-top: 5px !important;
+}
+.header-dialog {
+  text-align: left;
+  font-weight: normal normal bold 24px/31px Red Hat Display;
+  letter-spacing: 0px;
+  background-color: #f9f9f9 !important;
+  color: $glbColor !important;
+}
+.btn-click-here {
+  margin-top: 100px !important;
+  margin-left: 50px !important;
+}
+.MuiPaper-elevation24 {
+  border-radius: 25px !important;
+  width: 100%;
+}
+.body-container .btnTable {
+  border-radius: 25px;
+  background: $white;
+  color: $glbColor;
+  font-weight: 500;
+  text-transform: math-auto;
+  margin: 5px;
+  margin-top: 10px;
+}
+.body-container .btnUpload {
+  background-color: #3dbec1 !important;
+  color: $white;
+}
+.body-container .btnActive {
+  background-color: $glbColor;
+  color: $white;
+}
+.body-container .btnUnActive {
+  color: $glbColor;
+  font-weight: 500;
+  text-transform: math-auto;
+  margin: 5px;
+}
+.cardBox {
+  width: 180px;
+  height: 140px;
+  text-align: center;
+  margin: 10px;
+}
+#standard-basic{
+  padding: 12.5px 14px !important;
+}
+.css-9ddj71-MuiInputBase-root-MuiOutlinedInput-root{
+  border-radius: 25px !important;
+}
