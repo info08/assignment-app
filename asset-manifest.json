@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/assignment-app/static/css/main.2e4f55e6.css",
+    "main.js": "/assignment-app/static/js/main.9a8c045d.js",
+    "static/js/787.a86f3764.chunk.js": "/assignment-app/static/js/787.a86f3764.chunk.js",
+    "static/media/labware.png": "/assignment-app/static/media/labware.84356b4ebaf02b5525f4.png",
+    "static/media/bio.png": "/assignment-app/static/media/bio.b3c74d6e4ce17d988180.png",
+    "static/media/sens.png": "/assignment-app/static/media/sens.e69cb6199b1508013178.png",
+    "static/media/arx.png": "/assignment-app/static/media/arx.e1571b87d3710790d2dd.png",
+    "static/media/googleCloud.png": "/assignment-app/static/media/googleCloud.7d90908ac487779c622d.png",
+    "index.html": "/assignment-app/index.html",
+    "main.2e4f55e6.css.map": "/assignment-app/static/css/main.2e4f55e6.css.map",
+    "main.9a8c045d.js.map": "/assignment-app/static/js/main.9a8c045d.js.map",
+    "787.a86f3764.chunk.js.map": "/assignment-app/static/js/787.a86f3764.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e4f55e6.css",
+    "static/js/main.9a8c045d.js"
+  ]
+}
